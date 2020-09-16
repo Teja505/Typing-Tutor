@@ -1,0 +1,130 @@
+
+#maintitle{
+  margin-top: 3rem;
+  font-size:7rem;
+  text-shadow:2px 2px black;
+  font-family:Piedra;
+}
+#maintitle:hover{
+  text-shadow: 2px 2px grey;
+}
+.logo{
+  position: relative;
+  border-radius: 2rem;
+  height:300px;
+  width:300px;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.logo:hover{
+  opacity: 0.5;
+}
+.letsgo{
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.letsgo:hover{
+  width:200px;
+}
+.titlecontainer{
+  margin-top: 10rem;
+}
+#actual{
+  margin-top:30px;
+}
+.selection-container{
+  padding:10px 100px 0px 100px;
+  margin-left:610px;
+  margin-top: 220px;
+  height: 400px;
+  width:400px;
+}
+.selection-contents{
+  width:300px;
+  height:50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-style: solid;
+  border-color: grey;
+}
+.selection-contents:hover{
+  width:350px;
+  text-shadow: 1px 1px green;
+}
+#difficulty{
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#word{
+  font-family: 'Fredoka One', cursive;
+}
+#endgame-heading{
+  color:red;
+	text-shadow: 0.5px 0.5px blue;
+	font-family: Piedra;
+}
+#end-stmt{
+  font-weight: bold;
+}
+#endgame-div1{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top:150px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 2rem;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#endgame-div2{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+border-style: solid;
+border-color: green;
+border-radius: 2rem;
+margin-top:200px;
+align-items: center;
+width:100%;
+box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#highscore-img{
+	border-radius: 1rem;
+	box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#end-text{
+	color:red;
+	text-shadow: 0.5px 0.5px blue;
+	font-family: Piedra;
+}
+.back-button{
+  margin-left: 1rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.help-button{
+  margin-right: 1rem;
+  margin-top: 1.5rem;
+  color:white;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#selection-logo{
+  height:300px;
+  width:300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+  margin-top: 220px;
+  margin-left:370px;
+  border-radius:2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#time{
+  font-family:Piedra;
+}
+#score{
+  font-family:Piedra;
+}
+#highScore{
+  font-family:Piedra;
+}
+#ShighScore{
+  font-family:Piedra;
+}
